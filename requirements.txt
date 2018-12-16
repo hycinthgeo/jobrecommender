@@ -1,0 +1,9 @@
+#python    #version = 2.7.12
+matplotlib #version = 2.1.1
+numpy      #version = 1.13.3
+sqlite3    #version = 2.6.0
+pandas     #version = 0.22.0
+nltk	   #version = 3.3
+
+
+
