@@ -1,0 +1,23 @@
+This testing user profile is provided by an anonymous software engineer on 12/01/2018. 
+
+First Query
+	7 - Engineer
+	4 year experience
+	locations: 22, 24, 27, 29, 30
+
+Second Query
+	match_level: "min"
+	Highest education: PhD
+	Major: Computer Sci. + EE/CE
+
+	Interested skills: 1, 6, 12, 16, 18, 19, 20, 21, 22, 23, 24, 25, 31, 32, 33
+	Uninterested skills: 5, 27, 34
+
+	Responsibilities: 
+
+	Build software runtime system for machine learning accelerator (TPU, Tensor Processing Unit). Improved efficiency of virtual memory system.Profile java applications with perf-events and extend Java performance benchmarking platform  Modify JDK and and Java agent to enable accurate profiling with low overhead  Provide flexible performance monitoring services for production server. Developing CUDA testing library for self driving platform  Test kernels in self driving car platform  Map high-level language program to micro-architecture behavior  Verify coverage with CUDA software stack. 1. Explored Just-in-time complier technique to enabling selective caching in GPGPU.  2. Improved the performance of unified virtual memory over CPU + GPU memory model with various techniques. Performance Architecture Team Modeling Implement memory access optimization features in SoC performance simulator.  Evaluate and study performance impact. Performance Verification Focus on QoS features (multiple-mechanism, over 100 tests) Co-work with RTL and Design Verification team, add required features to framework Write tests to verify QoS features and report bugs.
+
+
+
+
+
