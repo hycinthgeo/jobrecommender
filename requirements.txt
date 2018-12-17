@@ -4,6 +4,7 @@ numpy      #version = 1.13.3
 sqlite3    #version = 2.6.0
 pandas     #version = 0.22.0
 nltk	   #version = 3.3
+sklearn    #version = 0.19.1
 
 
 
