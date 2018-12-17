@@ -19,7 +19,7 @@ This job recommender system was built in fall 2018, for the partial fulfillment 
 ### As illustrated in the following figure, this job recommender mainly contains two components, namely 
   - The pre-processing module. This module cleaned and tagged and raw data, by using the 300+ tags that I revealed during the data exploration. 
   - The user's query interface, where the user is gradually guided to his/her interested jobs by two rounds of queries. 
-![alt text](https://github.com/hycinthgeo/jobrecommender/blob/master/figs/Figure_workflow.png)
+![alt text](https://github.com/hycinthgeo/jobrecommender/blob/master/figs/Figure_workflow_v2.png)
 
 ### The job recommendation is made via content-based filtering and ranking. 
   - An example as below further detailed how it works. 
